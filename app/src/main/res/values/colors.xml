@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- home_page colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__home_page_ek2_color">#f8f8ee</color>
+	<color name="ellipse_544_color">#ffffff</color>
+	<color name="rectangle_758_color">#f1f1f1</color>
+	<color name="pkk_rt_10_color">#000000</color>
+	<color name="rectangle_2_copy_9_color">#108859</color>
+	<color name="rectangle_2_copy_9_ek1_color">#cccccc</color>
+	<color name="__bayar_arisan_color">#455ea5</color>
+	<color name="rectangle_2_copy_9_ek2_color">#979797</color>
+	<color name="rectangle_2_copy_9_ek3_color">#455ea5</color>
+	<color name="ellipse_550_color">#ee0b0b</color>
+	<color name="ellipse_538_color">#ff0000</color>
+	<color name="tumbuh_color">#485ea9</color>
+	<color name="tambah_arisan_baru_color">#a2afd2</color>
+	<color name="pilih_hadiah_lain_color">#a49d9d</color>
+	<color name="ellipse_561_color">#dedede</color>
+	<color name="may_color">#ffffff</color>
+	<color name="periode_berikutnya_color">#979797</color>
+	<color name="arisan_tedjo_s_fam_color">#525252</color>
+	<color name="rectangle_762_color">#b9b3b3</color>
+	<color name="_270_000_color">#706c6c</color>
+	<color name="beri_komentar____color">#fefefe</color>
+	<color name="ellipse_539_color">#222f53</color>
+</resources>

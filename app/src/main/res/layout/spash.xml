@@ -1,0 +1,93 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		home_page
+	 *	@date 		0
+	 *	@title 		Home Page
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/spash" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_spash_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/__bg__spash_ek2"
+					android:background="@drawable/__bg__spash_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="760dp" />
+
+
+				<RelativeLayout android:id="@+id/group_2402"
+					android:layout_marginTop="289dp"
+					android:layout_marginStart="105dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/logonyaaaaaaaaaaa"
+						android:src="@drawable/logonyaaaaaaaaaaa"
+						android:contentDescription="logonyaaaaaaaaaaa"
+						 android:layout_marginLeft="1dp"
+						 android:layout_marginStart="1dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="149dp"
+						android:layout_height="139dp" />
+
+					<TextView android:id="@+id/tumbuh"
+						android:fontFamily="Script MT"
+						android:textStyle="bold"
+						android:textSize="43sp"
+						android:textColor="@color/tumbuh_color"
+						android:layout_marginLeft="0dp"
+						android:layout_marginTop="131dp"
+						android:layout_width="150dp"
+						android:layout_height="61dp"
+						android:text="@string/tumbuh_string"
+						 />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/v_1_0_2"
+					android:fontFamily="Open Sans"
+					android:textSize="15sp"
+					android:textColor="@color/pkk_rt_10_color"
+					android:layout_marginLeft="158dp"
+					android:layout_marginTop="678dp"
+					android:layout_width="50dp"
+					android:layout_height="23dp"
+					android:text="@string/v_1_0_2_string"
+					 />
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

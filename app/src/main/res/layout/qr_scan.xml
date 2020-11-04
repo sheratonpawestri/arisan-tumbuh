@@ -1,0 +1,90 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		home_page
+	 *	@date 		0
+	 *	@title 		Home Page
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/qr_scan" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_qr_scan_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__qr_scan_ek2"
+					android:background="@drawable/_bg__qr_scan_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="760dp" />
+
+				<ImageView android:id="@+id/whatsapp_image_2020_10_16_at_9_19_16_pm_ek1"
+					android:src="@drawable/whatsapp_image_2020_10_16_at_9_19_16_pm_ek1"
+					android:contentDescription="whatsapp_image_2020_10_16_at_9_19_16_pm_ek1"
+					 android:layout_marginLeft="-10dp"
+					 android:layout_marginStart="-10dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="380dp"
+					android:layout_height="760dp" />
+
+				<TextView android:id="@+id/arahkan_ponsel_anda_ke_tv_"
+					android:fontFamily="Open Sans"
+					android:textStyle="bold"
+					android:textSize="14sp"
+					android:textColor="@color/may_color"
+					android:layout_marginLeft="85dp"
+					android:layout_marginTop="489dp"
+					android:layout_width="195dp"
+					android:layout_height="41dp"
+					android:text="@string/arahkan_ponsel_anda_ke_tv__string"
+					 />
+
+				<ImageView android:id="@+id/subtraction_9"
+					android:src="@drawable/subtraction_9"
+					android:contentDescription="subtraction_9"
+					 android:layout_marginLeft="2dp"
+					 android:layout_marginStart="2dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="357.99951171875dp"
+					android:layout_height="759.99871826172dp" />
+
+				<ImageView android:id="@+id/icon_material_close_ek1"
+					android:src="@drawable/icon_material_close_ek1"
+					android:contentDescription="icon_material_close_ek1"
+					 android:layout_marginLeft="316dp"
+					 android:layout_marginStart="316dp"
+					android:layout_marginTop="17dp"
+					android:layout_width="30.240478515625dp"
+					android:layout_height="30.441848754883dp" />
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
